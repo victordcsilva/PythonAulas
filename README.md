@@ -3,3 +3,5 @@
 ## [Aula 1](https://github.com/victordcsilva/PythonAulas/blob/master/python_aula1.ipynb)
 ## [Aula 2](https://github.com/victordcsilva/PythonAulas/blob/master/python_aula2.ipynb)
 ## [Aula 3](https://github.com/victordcsilva/PythonAulas/blob/master/python_aula3.ipynb)
+## [Aula 4](https://github.com/victordcsilva/PythonAulas/blob/master/python_aula4.ipynb)
+## [Aula 5](https://github.com/victordcsilva/PythonAulas/blob/master/python_aula5.ipynb)
