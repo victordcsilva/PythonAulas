@@ -11,5 +11,7 @@
 ## [Aula 4](https://github.com/victordcsilva/PythonAulas/blob/master/python_aula4.ipynb)
 - GUI e fazendo um programa executável. _Tags_: `gui python`, `executável python`,
 ## [Aula 5](https://github.com/victordcsilva/PythonAulas/blob/master/python_aula5.ipynb)
-- Web app _Tags_: `web app python`, `código web python`,
+- Web app _Tags_: `web app python`, `código web python`
+## [Aula 6](https://github.com/victordcsilva/PythonAulas/blob/master/python_SQLite.ipynb)
+- SQLite _Tags_: `SQLite`, `sqlite3`, `banco de dados`
 
