@@ -14,4 +14,6 @@
 - Web app. _Tags_: `web app python`, `código web python`
 ## [Aula 6](https://github.com/victordcsilva/PythonAulas/blob/master/python_SQLite.ipynb)
 - SQLite. _Tags_: `SQLite`, `sqlite3`, `banco de dados`
+## [Aula 7](https://github.com/victordcsilva/PythonAulas/blob/master/python_MySQL.ipynb)
+- MySQL. _Tags_: `MySQL`, `banco de dados`
 
